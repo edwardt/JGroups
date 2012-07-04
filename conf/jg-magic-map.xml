@@ -55,5 +55,6 @@
     <class id="92" name="org.jgroups.tests.perf.MPerf$MPerfHeader"/>
     <class id="93" name="org.jgroups.protocols.pbcast.NakAckHeader2"/>
     <class id="94" name="org.jgroups.util.SeqnoList"/>
-    <!--<class id="95" name="org.jgroups.protocols.relay.RELAY2$Relay2Header"/>-->
+    <class id="95" name="org.jgroups.protocols.relay.SiteUUID"/>
+    <!--<class id="96" name="org.jgroups.protocols.relay.RELAY2$Relay2Header"/>-->
 </magic-number-class-mapping>
